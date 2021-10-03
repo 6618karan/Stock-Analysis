@@ -96,7 +96,8 @@ bin/kafka-console-consumer.sh --topic project3 --bootstrap-server localhost:9092
 STEP: - 8
 CREATE ANOTHER .py FILE TO STRUCTURE THE JSON DATA INTO SPARK DATAFRAME AND DO SOME OPERATION OR A USECASE
 1. CREATE TOPIC askPriceOutput 
-bin/kafka-console-consumer.sh –topic askPriceOutput --bootstrap-server localhost:9092
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic askPriceOutput --from-beginning
+
 2. usecase2.py
 # Import Required Libraries
 from pyspark.sql import SparkSession
