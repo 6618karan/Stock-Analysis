@@ -21,6 +21,11 @@
 * Kafka
 * Pyspark
 
+## Features:
+* We can analyze various stocks.
+* We can stream live data in Kafka.
+* We can show the result of the analysis through graph.
+
 
 ![alt text](https://databricks.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-29-at-10.11.42-PM.png)
 
@@ -30,5 +35,16 @@
 * Visualization- Karan’s team
 * EV stock use case-Kareem's team
 * Deployment-Trupti’s Team
+
+## Contributors:
+* Trupti Chaudhari
+* Piyush Goyal
+* Rajeev Prasad
+* Eshwar Naidu
+* Sulemaan Salmani
+* Mohammed Kareem
+* Gaurav Mishal
+
+
 
 
